@@ -13,7 +13,7 @@
 <img align="left" alt="React" width="30px" style="padding-right:10px; padding-left:10px;" src="https://img.icons8.com/?size=100&id=047WZAFDnkVp&format=png&color=FFFFFF">
 <img align="left" alt="ReactBootstrap" width="30px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg">
 <img align="left" alt="Cursor" width="30px" style="padding-right:10px; padding-left:10px;" src="https://img.icons8.com/?size=100&id=WSo7jgx1Cz2d&format=png&color=FFFFFF">
-<img align="left" alt="Obsidian" width="30px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/obsidian.png">
+<img align="left" alt="Obsidian" width="25px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/obsidian.png">
 <img align="left" alt="Java" width="30px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/java.png">
 <img align="left" alt="Python" width="30px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/python.png">
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/javascript.png">
