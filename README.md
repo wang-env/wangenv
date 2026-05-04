@@ -20,7 +20,4 @@
 <img align="left" alt="Figma" width="19px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/figma.png">
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/adobe-photoshop.png">
 <img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/adobe-illustrator.png">
-<img align="left" alt="Premiere" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/adobe-premiere-pro.png">
 <img align="left" alt="After-Effects" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original">
-<img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/github-light.png">
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/git.png">
