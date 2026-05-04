@@ -4,7 +4,7 @@ Hi, I am a Software Engineer and current Computer Science student with a holisti
 
 ---
 
-## Languages and Tools🛠️
+## Languages and Tools 🛠️
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
