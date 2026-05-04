@@ -18,5 +18,7 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/python.png">
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/javascript.png">
 <img align="left" alt="Typescript" width="30px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/typescript.png">
-<img align="left" alt="" width="30px" style="padding-right:10px; padding-left:10px;" src="">
-<img align="left" alt="Java" width="30px" style="padding-right:10px; padding-left:10px;" src="">
+<img align="left" alt="Figma" width="30px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/figma.png">
+<img align="left" alt="Photoshop" width="30px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/adobe-photoshop.png">
+<img align="left" alt="Illustrator" width="30px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/adobe-illustrator.png">
+<img align="left" alt="Premiere" width="30px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/adobe-premiere-pro.png">
